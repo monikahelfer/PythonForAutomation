@@ -1,0 +1,265 @@
+1) Plant name: Agave filifera (nitkowata), Price: 45,00 zł
+2) Plant name: Aglaonema Amazon Silver, Price: 75,00 zł
+3) Plant name: Aglaonema Arctic Lime, Price: 99,00 zł
+4) Plant name: Aglaonema Cherry Baby, Price: 89,00 zł
+5) Plant name: Aglaonema Citronelle, Price: 99,00 zł
+6) Plant name: Aglaonema Cleopatra, Price: 129,00 zł
+7) Plant name: Aglaonema Dreamcatcher, Price: 129,00 zł
+8) Plant name: Aglaonema Madagascar, Price: 39,00 zł
+9) Plant name: Aglaonema Orange Flame, Price: 99,00 zł
+10) Plant name: Aglaonema White Joy, Price: 99,00 zł
+11) Plant name: Aglaonema Zebra, Price: 89,00 zł
+12) Plant name: Alocasia baginda Silver Dragon, Price: 49,00 zł
+13) Plant name: Alocasia Jacklyn (Alocasia Tandurusa), Price: 39,00 zł
+14) Plant name: Amydrium Silver, Price: 269,00 zł
+15) Plant name: Anthurium andreanum Diamond Dynamite Red, Price: 65,00 zł
+16) Plant name: Anthurium Magnificum, Price: 59,00 zł
+17) Plant name: Anthurium villenaorum, Price: 159,00 zł
+18) Plant name: Areca, Price: 189,00 zł
+19) Plant name: Asparagus densiflorus “Sprengeri”, Price: 75,00 zł
+20) Plant name: Begonia kingiana, Price: 69,00 zł
+21) Plant name: Begonia Lieke, Price: 29,00 zł
+22) Plant name: Begonia Lion Dance, Price: 35,00 zł
+23) Plant name: Calathea Helen Kennedy (Kalatea), Price: 129,00 zł
+24) Plant name: Calathea Yellow Fusion (Kalatea), Price: 45,00 zł
+25) Plant name: Dieffenbachia-amy, Price: 16,00 zł
+26) Plant name: Dischidia oiantha variegata, Price: 39,00 zł
+27) Plant name: Dracaena marginata Magenta, Price: 29,00 zł
+28) Plant name: Echeveria Magma Pearl, Price: 29,00 zł
+29) Plant name: Epiphyllum chrysocardium, Price: 59,00 zł
+30) Plant name: Epipremnum Marble Green, Price: 35,00 zł
+31) Plant name: Epipremnum pinnatum Cebu Blue, Price: 35,00 zł
+32) Plant name: Epipremnum pinnatum Cebu Blue, Price: 65,00 zł
+33) Plant name: Ficus Belize, Price: 27,00 zł
+34) Plant name: Ficus radicans Green, Price: 35,00 zł
+35) Plant name: Fittonia White Tiger, Price: 19,00 zł
+36) Plant name: Hoya australis Lisa, Price: 35,00 zł
+37) Plant name: Hoya carnosa Compacta, Price: 26,00 zł
+38) Plant name: Hoya caudata, Price: 179,00 zł
+39) Plant name: Hoya Chouke, Price: 22,00 zł
+40) Plant name: Hoya Compacta Mauna Loa, Price: 175,00 zł
+41) Plant name: Hoya DS 70 (burtoniae variegata), Price: 75,00 zł
+42) Plant name: Hoya Flamingo Dream, Price: 22,00 zł
+43) Plant name: Hoya incrassata variegata, Price: 225,00 zł
+44) Plant name: Hoya latifolia, Price: 175,00 zł
+45) Plant name: Hoya Memoria Gracilis, Price: 22,00 zł
+46) Plant name: Hoya Nicholsoniae, Price: 175,00 zł
+47) Plant name: Hoya parasitica Splash, Price: 119,00 zł
+48) Plant name: Hoya Rosita, Price: 22,00 zł
+49) Plant name: Hoya Sarawak Cream, Price: 275,00 zł
+50) Plant name: Hoya Sigillatis, Price: 29,00 zł
+51) Plant name: Hoya soligamiana, Price: 219,00 zł
+52) Plant name: Hoya wayetii (kentiana) variegata, Price: 22,00 zł
+53) Plant name: Iresine Herbstii Bloodleaf, Price: 45,00 zł
+54) Plant name: Ludisia discolor, Price: 49,00 zł
+55) Plant name: Maranta leuconeura Silver Band, Price: 39,00 zł
+56) Plant name: Monstera siltepecana, Price: 62,00 zł
+57) Plant name: Monstera Thai Constellation, Price: 269,00 zł
+58) Plant name: Opuntia microdasys, Price: 45,00 zł
+59) Plant name: Peperomia Bubble Green, Price: 32,00 zł
+60) Plant name: Phalaenopsis Afra, Price: 109,00 zł
+61) Plant name: Phalaenopsis Black Stripes, Price: 99,00 zł
+62) Plant name: Phalaenopsis Surfsong, Price: 99,00 zł
+63) Plant name: Philodendron bipennifolium aurea Yellow Violin, Price: 75,00 zł
+64) Plant name: Philodendron Birkin Pink Bikini, Price: 75,00 zł
+65) Plant name: Philodendron Bob Cee, Price: 175,00 zł
+66) Plant name: Philodendron brandtianum, Price: 56,00 zł
+67) Plant name: Philodendron Caramel, Price: 199,00 zł
+68) Plant name: Philodendron corcovadensis, Price: 45,00 zł
+69) Plant name: Philodendron Cream Splash, Price: 129,00 zł
+70) Plant name: Philodendron Fatboy Martianum, Price: 89,00 zł
+71) Plant name: Philodendron gloriosum, Price: 25,00 zł
+72) Plant name: Philodendron gloriosum Dark Form, Price: 49,00 zł
+73) Plant name: Philodendron Joepii, Price: 89,00 zł
+74) Plant name: Philodendron Majestic, Price: 179,00 zł
+75) Plant name: Philodendron McColley’s Finale, Price: 89,00 zł
+76) Plant name: Philodendron melanochrysum, Price: 49,00 zł
+77) Plant name: Philodendron mexicanum, Price: 89,00 zł
+78) Plant name: Philodendron Paraiso Verde, Price: 79,00 zł
+79) Plant name: Philodendron pastazanum, Price: 119,00 zł
+80) Plant name: Philodendron Pittieri, Price: 87,00 zł
+81) Plant name: Philodendron polypodioides, Price: 395,00 zł
+82) Plant name: Philodendron Ring of Fire, Price: 69,00 zł
+83) Plant name: Philodendron warscewiczii, Price: 149,00 zł
+84) Plant name: Philodendron White Wizard, Price: 29,00 zł
+85) Plant name: Phlebodium aureum Davana, Price: 19,00 zł
+86) Plant name: Piper sylvaticum, Price: 149,00 zł
+87) Plant name: Polaskia chichipe, Price: 16,00 zł
+88) Plant name: Rhaphidophora Tetrasperma Marmer, Price: 255,00 zł
+89) Plant name: Sansevieria aubrytiana Lauren, Price: 139,00 zł
+90) Plant name: Sansevieria Golden Hahnii, Price: 45,00 zł
+91) Plant name: Sansevieria Golden Hahnii Black, Price: 45,00 zł
+92) Plant name: Sansevieria trifasciata Futura Superba (Sansewieria gwinejska), Price: 49,00 zł
+93) Plant name: Sansevieria trifasciata Hahnii Jade Multicolor, Price: 49,00 zł
+94) Plant name: Schismatoglottis pusilla, Price: 145,00 zł
+95) Plant name: Spathiphyllum Bingo Cupido (Skrzydłokwiat), Price: 45,00 zł
+96) Plant name: Streptocarpus Pretty Turtle, Price: 45,00 zł
+97) Plant name: Syngonium Black Panther, Price: 129,00 zł
+98) Plant name: Syngonium Grey Ghost, Price: 129,00 zł
+99) Plant name: Syngonium Milk Confetti (Zroślicha), Price: 49,00 zł
+100) Plant name: Syngonium Neon Robusta, Price: 49,00 zł
+101) Plant name: Syngonium T1510, Price: 69,00 zł
+102) Plant name: Tillandsia pruinosa, Price: 39,00 zł
+103) Plant name: Tradescantia Brightness, Price: 16,00 zł
+104) Plant name: Tradescantia sillamontana Brown Hill, Price: 99,00 zł
+105) Plant name: Aeschynanthus japhrolepis Twister, Price: 99,00 zł
+106) Plant name: Aeschynanthus marmoratus (Eszynantus marmurkowy), Price: 39,00 zł
+107) Plant name: Aeschynanthus Pink Polka (Eszynantus), Price: 99,00 zł
+108) Plant name: Aglaonema Gemini, Price: 65,00 zł
+109) Plant name: Aglaonema Matcha Lemon, Price: 75,00 zł
+110) Plant name: Alocasia azlanii (Red Mambo), Price: 29,00 zł
+111) Plant name: Alocasia wentii, Price: 35,00 zł
+112) Plant name: Aloe humilis (Aloes niski), Price: 16,00 zł
+113) Plant name: Aloe vera (Aloes), Price: 36,00 zł
+114) Plant name: Anthurium crystallinum, Price: 39,00 zł
+115) Plant name: Anthurium Diamond Black Love, Price: 65,00 zł
+116) Plant name: Anthurium Silver Blush, Price: 59,00 zł
+117) Plant name: Anthurium villenaorum, Price: 195,00 zł
+118) Plant name: Areca (Palma Areka), Price: 65,00 zł
+119) Plant name: Areca catechu (Palma betelowa), Price: 79,00 zł
+120) Plant name: Asparagus densiflorus Sprengeri (Szparag), Price: 25,00 zł
+121) Plant name: Asparagus densiflorus Sprengeri (Szparag), Price: 15,00 zł
+122) Plant name: Asparagus falcatus (Szparag), Price: 29,00 zł
+123) Plant name: Asplenium Crispy Wave, Price: 45,00 zł
+124) Plant name: Asplenium Leslie, Price: 35,00 zł
+125) Plant name: Asplenium nidus Campio, Price: 35,00 zł
+126) Plant name: Asplenium nidus Crissie (Zanokcica), Price: 42,00 zł
+127) Plant name: Asplenium nidus Osaka, Price: 16,00 zł
+128) Plant name: Asplenium Parvati (Zanokcica), Price: 45,00 zł
+129) Plant name: Begonia amphioxus, Price: 19,00 zł
+130) Plant name: Begonia Corallina de Lucerna, Price: 65,00 zł
+131) Plant name: Begonia masoniana Mountain Explore, Price: 59,00 zł
+132) Plant name: Begonia rex Chayo (Begonia królewska), Price: 19,00 zł
+133) Plant name: Calathea Beauty Star (Kalatea), Price: 45,00 zł
+134) Plant name: Calathea Freddie (Kalatea), Price: 39,00 zł
+135) Plant name: Calathea lancifolia (Kalatea lancetolistna), Price: 45,00 zł
+136) Plant name: Calathea orbifolia (Kalatea okrągłolistna), Price: 49,00 zł
+137) Plant name: Ceropegia woodii, Price: 29,00 zł
+138) Plant name: Ceropegia woodii Marlies variegata, Price: 65,00 zł
+139) Plant name: Chlorophytum comosum Ocean (Zielistka), Price: 35,00 zł
+140) Plant name: Chlorophytum Green Orange (Zielistka), Price: 65,00 zł
+141) Plant name: Codiaeum variegatum Mrs Iceton (Kroton), Price: 59,00 zł
+142) Plant name: Codiaeum variegatum Petra (Kroton), Price: 49,00 zł
+143) Plant name: Colleus Le Freak, Price: 16,00 zł
+144) Plant name: Crassula marnieriana Hottentot (Grubosz), Price: 19,00 zł
+145) Plant name: Ctenanthe burle-marxii Amagris, Price: 22,00 zł
+146) Plant name: Ctenanthe burle-marxii Fishbone, Price: 45,00 zł
+147) Plant name: Ctenanthe lubbersiana Golden Mosaic, Price: 55,00 zł
+148) Plant name: Dieffenbachia Green Magic, Price: 35,00 zł
+149) Plant name: Dieffenbachia Reflector, Price: 85,00 zł
+150) Plant name: Dracaena fragrans Compacta Malaika (Dracena), Price: 22,00 zł
+151) Plant name: Epipremnum aureum (Epipremnum złociste), Price: 29,00 zł
+152) Plant name: Epipremnum aureum (Epipremnum złociste), Price: 65,00 zł
+153) Plant name: Epipremnum Golden Pothos (Epipremnum Neon), Price: 35,00 zł
+154) Plant name: Epipremnum HiColor, Price: 35,00 zł
+155) Plant name: Epipremnum Marble Queen, Price: 35,00 zł
+156) Plant name: Epipremnum Njoy, Price: 29,00 zł
+157) Plant name: Epipremnum pinnatum Global Green, Price: 35,00 zł
+158) Plant name: Ficus binnendijkii Amstel King, Price: 89,00 zł
+159) Plant name: Ficus elastica Abidjan (Fikus sprężysty), Price: 55,00 zł
+160) Plant name: Ficus elastica Belize (Fikus sprężysty), Price: 86,00 zł
+161) Plant name: Ficus elastica Tineke (Fikus sprężysty), Price: 35,00 zł
+162) Plant name: Ficus Pumila White Sunny (Figowiec / Fikus Pnący), Price: 15,00 zł
+163) Plant name: Fittonia albivenis Skeleton, Price: 19,00 zł
+164) Plant name: Fittonia Pink Forest Flame, Price: 22,00 zł
+165) Plant name: Fittonia Ruby Lime, Price: 19,00 zł
+166) Plant name: Fittonia White Forest Flame, Price: 19,00 zł
+167) Plant name: Gynura aurantiaca (Ginura Pomarańczowa), Price: 16,00 zł
+168) Plant name: Haworthia fasciata, Price: 26,00 zł
+169) Plant name: Hedera helix White Wonder (Bluszcz), Price: 15,00 zł
+170) Plant name: Hoya australis, Price: 49,00 zł
+171) Plant name: Hoya australis Lisa, Price: 19,00 zł
+172) Plant name: Hoya burtoniae, Price: 99,00 zł
+173) Plant name: Hoya carnosa Krinkle, Price: 39,00 zł
+174) Plant name: Hoya carnosa Tricolor, Price: 55,00 zł
+175) Plant name: Hoya carnosa Tricolor, Price: 22,00 zł
+176) Plant name: Hoya curtisii, Price: 59,00 zł
+177) Plant name: Hoya Krimson Queen (Hoja albomarginata), Price: 55,00 zł
+178) Plant name: Hoya Krimson Queen (Hoja albomarginata), Price: 49,00 zł
+179) Plant name: Hoya krohniana Eskimo, Price: 25,00 zł
+180) Plant name: Hoya krohniana Splash, Price: 65,00 zł
+181) Plant name: Hoya linearis, Price: 109,00 zł
+182) Plant name: Hoya Memoria Gracilis, Price: 49,00 zł
+183) Plant name: Hoya wayetii, Price: 49,00 zł
+184) Plant name: Humata tyermanii (Davallia), Price: 45,00 zł
+185) Plant name: Hylocereus undatus (Pitaja), Price: 16,00 zł
+186) Plant name: Hypoestes phyllostachya Pink (Niedośpian), Price: 19,00 zł
+187) Plant name: Jasminum polyanthum (Jaśmin), Price: 49,00 zł
+188) Plant name: Juncus effusus Spiralis (Sit rozpierzchły spiralny), Price: 16,00 zł
+189) Plant name: Kalanchoe orgyalis, Price: 24,00 zł
+190) Plant name: Maranta Lemon Lime, Price: 49,00 zł
+191) Plant name: Maranta leuconeura Fascinator Tricolor, Price: 39,00 zł
+192) Plant name: Maranta leuconeura Kerchoveana, Price: 39,00 zł
+193) Plant name: Monstera deliciosa (Monstera dziurawa), Price: 39,00 zł
+194) Plant name: Monstera deliciosa (Monstera dziurawa), Price: 109,00 zł
+195) Plant name: Monstera deliciosa (Monstera dziurawa), Price: 65,00 zł
+196) Plant name: Monstera Monkey Mask, Price: 55,00 zł
+197) Plant name: Parthenocissus Inserta Verona Vein (Cissus striata), Price: 39,00 zł
+198) Plant name: Peperomia caperata Rosso (Peperomia kędzierzawa), Price: 29,00 zł
+199) Plant name: Peperomia Hope, Price: 49,00 zł
+200) Plant name: Peperomia Milano, Price: 16,00 zł
+201) Plant name: Peperomia obtipan bicolor, Price: 45,00 zł
+202) Plant name: Peperomia obtusifolia variegata, Price: 18,00 zł
+203) Plant name: Peperomia Pixie Lime, Price: 16,00 zł
+204) Plant name: Peperomia polybotrya Raindrop, Price: 25,00 zł
+205) Plant name: Peperomia prostrata, Price: 16,00 zł
+206) Plant name: Peperomia prostrata Pepperspot, Price: 16,00 zł
+207) Plant name: Peperomia Rocca Scuro, Price: 35,00 zł
+208) Plant name: Philodendron atabapoense, Price: 119,00 zł
+209) Plant name: Philodendron billietiae, Price: 59,00 zł
+210) Plant name: Philodendron scandens Brasil, Price: 79,00 zł
+211) Plant name: Philodendron erubescens Pink Princess, Price: 25,00 zł
+212) Plant name: Philodendron hederaceum Micans, Price: 45,00 zł
+213) Plant name: Philodendron Narrow, Price: 69,00 zł
+214) Plant name: Philodendron Ring of Fire, Price: 29,00 zł
+215) Plant name: Philodendron scandens (Filodendron pnący), Price: 79,00 zł
+216) Plant name: Philodendron scandens (Filodendron pnący), Price: 35,00 zł
+217) Plant name: Philodendron scandens Brasil, Price: 35,00 zł
+218) Plant name: Philodendron scandens Lemon Lime, Price: 35,00 zł
+219) Plant name: Philodendron tortum, Price: 65,00 zł
+220) Plant name: Philodendron White Knight, Price: 95,00 zł
+221) Plant name: Phlebodium aureum Blue Star, Price: 35,00 zł
+222) Plant name: Pilea glaucophylla Greyzy, Price: 16,00 zł
+223) Plant name: Pilea mollis Moon Valley, Price: 16,00 zł
+224) Plant name: Pilea peperomioides (Pieniążek), Price: 16,00 zł
+225) Plant name: Platycerium bifurcatum (Łosie rogi), Price: 45,00 zł
+226) Plant name: Pseudorhipsalis ramulosa Red Coral (rhipsalis), Price: 65,00 zł
+227) Plant name: Rhaphidophora decursiva, Price: 79,00 zł
+228) Plant name: Rhaphidophora tetrasperma (Monstera Minima), Price: 69,00 zł
+229) Plant name: Rhipsalis baccifera horrida (Patyczak), Price: 35,00 zł
+230) Plant name: Rhipsalis burchellii (Patyczak), Price: 279,00 zł
+231) Plant name: Rhipsalis cassutha Cassera (Patyczak), Price: 105,00 zł
+232) Plant name: Rhipsalis elliptica (Patyczak), Price: 109,00 zł
+233) Plant name: Rhipsalis Mauritiana (Patyczak), Price: 279,00 zł
+234) Plant name: Sansevieria cylidrica Boncellensis (Boncel), Price: 21,00 zł
+235) Plant name: Sansevieria cylindrica Straight, Price: 99,00 zł
+236) Plant name: Sansevieria Fernwood Punk, Price: 79,00 zł
+237) Plant name: Sansevieria Golden Hahnii, Price: 29,00 zł
+238) Plant name: Sansevieria Jade Pagoda, Price: 56,00 zł
+239) Plant name: Sansevieria Samurai, Price: 29,00 zł
+240) Plant name: Sansevieria Star Canary, Price: 65,00 zł
+241) Plant name: Sansevieria trifasciata Black Diamond, Price: 45,00 zł
+242) Plant name: Sansevieria trifasciata Hahnii, Price: 22,00 zł
+243) Plant name: Sansevieria trifasciata Hahnii, Price: 45,00 zł
+244) Plant name: Sansevieria trifasciata Hahnii Black, Price: 45,00 zł
+245) Plant name: Sansevieria trifasciata Laurentii (Sansewieria gwinejska), Price: 85,00 zł
+246) Plant name: Sansevieria trifasciata Laurentii (Sansewieria gwinejska), Price: 58,00 zł
+247) Plant name: Sansevieria trifasciata Moonshine, Price: 59,00 zł
+248) Plant name: Saxifraga stolonifera, Price: 16,00 zł
+249) Plant name: Scindapsus pictus Argyraeus (Scindapsus pstry), Price: 85,00 zł
+250) Plant name: Scindapsus pictus Argyraeus (Scindapsus pstry), Price: 35,00 zł
+251) Plant name: Scindapsus pictus Trebie (Scindapsus pstry), Price: 35,00 zł
+252) Plant name: Scindapsus Treubii (Moonlight), Price: 59,00 zł
+253) Plant name: Scindapsus treubii Dark Form, Price: 69,00 zł
+254) Plant name: Spathiphyllum Bingo Cupido (Skrzydłokwiat), Price: 79,00 zł
+255) Plant name: Spathiphyllum Diamond (Skrzydłokwiat variegata), Price: 69,00 zł
+256) Plant name: Spathiphyllum Silver (Skrzydłokwiat), Price: 89,00 zł
+257) Plant name: Strelitzia nicolai (Strelicja biała), Price: 106,00 zł
+258) Plant name: Syngonium erythrophyllum Red Arrow (Zroślicha), Price: 55,00 zł
+259) Plant name: Syngonium Neon Robusta (Zroślicha), Price: 22,00 zł
+260) Plant name: Syngonium Pink Splash, Price: 49,00 zł
+261) Plant name: Syngonium White Butterfly, Price: 45,00 zł
+262) Plant name: Tradescantia albiflora Nanouk (Trzykrotka Nanouk), Price: 16,00 zł
+263) Plant name: Tradescantia Purple Heart (Trzykrotka), Price: 39,00 zł
+264) Plant name: Zamioculcas zamiifolia (Zamiokulkas zamiolistny), Price: 36,00 zł
+265) Plant name: Zamioculcas zamiifolia (Zamiokulkas zamiolistny), Price: 95,00 zł
